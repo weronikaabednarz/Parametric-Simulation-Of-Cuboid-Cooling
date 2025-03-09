@@ -30,7 +30,8 @@ Results of **temperature distribution** after **cooling process** [(measurement 
 
 ![4](images/4.jpg)
 
-**Graphs** showing the **temperature dependence of the number of operations performed**:
+**Graphs** showing the **temperature dependence of the number of operations performed**
+
 Line graph:
 
 ![5](images/5.jpg)
