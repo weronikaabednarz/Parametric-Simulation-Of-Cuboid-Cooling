@@ -8,8 +8,14 @@ Another purpose was to use **inverse analysis** and the **Levenberg-Marquardt al
 parameters to be identified from experimental or simulation data.
 
 ## Technologies
-The project was done using **Power BI** environment.
+The project was done using **Python** for data processing and optimization, along with **Abaqus** for numerical simulations of the cooling process.
 
-## Report:
+## Project implementation process
 
-![2](https://github.com/weronikaabednarz/Power-BI-Disney-Project/blob/main/images/disney_viewership_report.jpg)
+![1](images/1.jpg)
+![2](images/2.jpg)
+![3](images/3.jpg)
+![4](images/4.jpg)
+![5](images/5.jpg)
+![6](images/6.jpg)
+
