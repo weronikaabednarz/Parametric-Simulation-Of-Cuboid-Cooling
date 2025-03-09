@@ -11,8 +11,10 @@ parameters to be identified from experimental or simulation data.
 The project was done using **Python** for data processing and optimization, along with **Abaqus** for numerical simulations of the cooling process.
 
 ## Project implementation process
-
+Creating a model:
 ![1](images/1.jpg)
+
+Result of the first temperature distribution obtained:
 ![2](images/2.jpg)
 ![3](images/3.jpg)
 ![4](images/4.jpg)
