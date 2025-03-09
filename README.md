@@ -19,6 +19,8 @@ Result of the first temperature distribution obtained:
 
 ![2](images/2.jpg)
 
+Solid cross-section:
+
 ![3](images/3.jpg)
 
 Designated **heat transfer coefficient**: **1.0**
@@ -29,8 +31,11 @@ Results of **temperature distribution** after **cooling process** [(measurement 
 ![4](images/4.jpg)
 
 **Graphs** showing the **temperature dependence of the number of operations performed**:
+Line graph:
 
 ![5](images/5.jpg)
+
+Point graph:
 
 ![6](images/6.jpg)
 
