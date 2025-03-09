@@ -12,11 +12,17 @@ The project was done using **Python** for data processing and optimization, alon
 
 ## Project implementation process
 Creating a model:
+
 ![1](images/1.jpg)
 
 Result of the first temperature distribution obtained:
+
 ![2](images/2.jpg)
+
 ![3](images/3.jpg)
+
+
+
 ![4](images/4.jpg)
 ![5](images/5.jpg)
 ![6](images/6.jpg)
