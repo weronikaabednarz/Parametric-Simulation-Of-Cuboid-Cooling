@@ -21,9 +21,17 @@ Result of the first temperature distribution obtained:
 
 ![3](images/3.jpg)
 
-
+Designated **heat transfer coefficient**: **1.0**
+Value of **target function** after optimisation: **60470.3342206**
+Number of **iterations** carried out: **6**
+Results of **temperature distribution** after **cooling process** [(measurement number, number of iterations carried out, temperature (point at centre of cylinder)]:
 
 ![4](images/4.jpg)
+
+**Graphs** showing the **temperature dependence of the number of operations performed**:
+
 ![5](images/5.jpg)
+
 ![6](images/6.jpg)
 
+The temperature at the **central point of the cylinder** shows a **decreasing trend over time**. This is **consistent** with expectations for the **cooling process**.
